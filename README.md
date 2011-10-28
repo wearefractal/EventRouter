@@ -1,11 +1,10 @@
-**Nothing here yet**
-
+**EventRouter is a library to route and filter events**
 
 ## Installation
     
-To install APPNAME, use [npm](http://github.com/isaacs/npm):
+To install EventRouter, use [npm](http://github.com/isaacs/npm):
 
-    $ npm install -g APPNAME
+    $ npm install eventrouter
 
 ## Usage
 
@@ -13,7 +12,7 @@ Nothing here yet
 
 ## Examples
 
-You can view further examples in the [example folder.](https://github.com/wearefractal/APPNAME/tree/master/examples)
+You can view further examples in the [example folder.](https://github.com/wearefractal/EventRouter/tree/master/examples)
 
 ## LICENSE
 
