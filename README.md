@@ -8,7 +8,11 @@ To install EventRouter, use [npm](http://github.com/isaacs/npm):
 
 ## Usage
 
-Nothing here yet
+```
+var EventRouter = require('eventrouter');
+example = new EventRouter(parentEmitter);
+example.route(event, filter);
+```
 
 ## Examples
 
