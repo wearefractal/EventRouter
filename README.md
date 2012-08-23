@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/wearefractal/EventRouter.png)](http://travis-ci.org/wearefractal/EventRouter)
 **EventRouter is a library to route and conditionally filter events**
 
 ## Installation
